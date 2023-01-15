@@ -1,0 +1,7 @@
+{
+    "ip":"localhost",
+    "puerto":"27017",
+    "baseDatos":"Biblioteca",
+    "coleccion":"books",
+    "login":"users"
+}
